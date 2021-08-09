@@ -513,6 +513,149 @@ const certifications = {
 };
 
 
+// Experience Page
+const experience = {
+  title: "Experience",
+  subtitle: "Work, Internship and Volunteership",
+  description:
+    "I am a first year studentwith experience gained from voluntary works on sites like stackoverflow, github. I have customly done many client works.",
+  header_image_path: "experience.svg",
+  sections: [
+    {
+      title: "Work",
+      experiences: [
+        /*
+    {
+          title: "Associate AI Engineer",
+          company: "Legato Health Technology",
+          company_url: "https://legatohealthtech.com/",
+          logo_path: "legato_logo.png",
+          duration: "June 2020 - PRESENT",
+          location: "Hyderabad, Telangana",
+          description:
+            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          color: "#0879bf",
+        },
+        {
+          title: "Android and ML Developer",
+          company: "Muffito Incorporation",
+          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          logo_path: "muffito_logo.png",
+          duration: "May 2018 - Oct 2018",
+          location: "Pune, Maharashtra",
+          description:
+            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          color: "#9b1578",
+        },
+        {
+          title: "Android Developer",
+          company: "FreeCopy Pvt. Ltd.",
+          company_url: "https://www.linkedin.com/company/freecopy/about/",
+          logo_path: "freecopy_logo.png",
+          duration: "Nov 2017 - Dec 2017",
+          location: "Ahmedabad, Gujarat",
+          description:
+            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+          color: "#fc1f20",
+        },
+    */
+      ],
+    },
+    {
+      title: "Internships",
+      experiences: [
+        /*
+        {
+          title: "Data Science Research Intern",
+          company: "XYZ Pvt. Ltd.",
+          company_url: "https://www.xyz.com/",
+          logo_path: "xyz.png",
+          duration: "May 2019 - Sept 2019",
+          location: "z, z",
+          description:
+            "I have worked on project of predicting ship rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily ship rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+          color: "#ee3c26",
+        },
+        {
+          title: "Data Science Intern",
+          company: "Data",
+          company_url:
+            "https://data",
+          logo_path: "data.jpg",
+          duration: "Nov 2018 - Dec 2018",
+          location: "Work From Home",
+          description:
+            "This is   Company. I have made Supervised Learning model for the company which can perform  series analysis on  price data for its companies.",
+          color: "#0071C5",
+        },
+    */
+      ],
+    },
+    {
+      title: "Volunteerships",
+      experiences: [
+        /*
+        {
+          title: "xa",
+          company: "xa",
+          company_url: "https://about.xa/",
+          logo_path: "xa.png",
+          duration: "June 2019 - April 2020",
+          location: "xa, xa",
+          description:
+            "Explore Machine Learning.",
+          color: "#4285F4",
+        },
+        {
+          title: "Microsoft",
+          company: "Microsoft",
+          company_url: "https://www.microsoft.com/",
+          logo_path: "microsoft_logo.png",
+          duration: "Aug 2021 - May 2021",
+          location: "Hyderabad, Telangana",
+          description:
+            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+          color: "#D83B01",
+        },
+        {
+          title: "Mozilla Campus Captain",
+          company: "Mozilla",
+          company_url: "https://www.mozilla.org/",
+          logo_path: "mozilla_logo.png",
+          duration: " -  ",
+          location: ",  ",
+          description:
+            "My responsibility for this program was to create opensource environment in college and in the city. ",
+          color: "#000000",
+        },
+        {
+          title: "Developer Students Club Member",
+          company: "  ",
+          company_url:
+            "https://www..com/company/",
+          logo_path: "dsc_logo.png",
+          duration: "Jan  - May ",
+          location: ",  Pradesh",
+          description:
+            "We have well established developer club in college which is directly associated with Google Developers.",
+          color: "#0C9D58",
+        },
+    */
+        {
+          title: "Developer Program Member",
+          company: "Github",
+          company_url: "https://github.com/",
+          logo_path: "github_logo.png",
+          duration: "May 2021 - PRESENT",
+          location: "Work From Home",
+          description:
+            "I am actively contributing to many opensource projects. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+          color: "#181717",
+        },
+      ],
+    },
+  ],
+};
 
 
 // Projects Page
