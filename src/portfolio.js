@@ -551,6 +551,7 @@ export {
   competitiveSites,
   degrees,
   certifications,
+  experience,
   projectsHeader,
   contactPageData,
 };
