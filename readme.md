@@ -1,6 +1,3 @@
-
-
-
 <p align="center"> 
     <a href="https://mustafahasankhan.com" target="_blank">
     <img src="images/theme.gif" align="center"></img>
